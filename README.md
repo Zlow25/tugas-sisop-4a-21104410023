@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410023 |
+| Nama Lengkap | Kresno Kusumo Putro Dewo |
 | Kelas | TI-4A |
